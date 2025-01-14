@@ -1,5 +1,10 @@
 {
 	"name": "df-car-sales-dbc",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
