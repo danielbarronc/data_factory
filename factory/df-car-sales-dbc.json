@@ -1,0 +1,9 @@
+{
+	"name": "df-car-sales-dbc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e0fcf3b-ecfc-4d79-b858-fe14dd7e53a1",
+		"tenantId": "e40ee495-763e-4cfb-b28b-c00726c53f86"
+	}
+}
